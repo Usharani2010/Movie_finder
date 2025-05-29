@@ -1,5 +1,6 @@
 {
   "name": "my-project",
+  "homepage": "https://usharani2010.github.io/Movie_finder/",
   "version": "1.0.0",
   "main": "vite.config.js",
   "dependencies": {
